@@ -1,4 +1,4 @@
-# ShoppingCartMongoose
+# ShoppingCart
 A shopping cart website with mongoDb database using mongoose ODM(Object Document Mapping) library
 
 # Mongoose
